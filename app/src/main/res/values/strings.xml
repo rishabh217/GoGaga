@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Rishabh Gupta GoGaga</string>
+
+    <string name="string1">Age range preference allows us to suggest matches accordingly. Some matches may fall outside the specific range.</string>
+    <string name="string2">Pick your gender preference</string>
+    <string name="string3">We strongly recommend to keep the notifications ON. You don\'t want to miss the a chat notification from your match.</string>
+    <string name="string4">Here to only help friends? Just hide your profile and be a match-maker</string>
+    <string name="string5">Please select your language of choice. The language changes will take place once you go to the home screen.</string>
+    <string name="string6">Never miss an update by whitelisting our app from battery optimisation.</string>
+
+</resources>
